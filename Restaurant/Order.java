@@ -29,8 +29,7 @@ public void calculateOrderAmount(){
 
 public void displayOrderDetails(){
 
-System.out.println(" ");
-System.out.println(" ");
+
 System.out.println("ORDER DETAILS:");
 System.out.println("Order ID:"+ orderID);
 System.out.println("Customer Name:"+ customerName);
