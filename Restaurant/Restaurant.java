@@ -32,20 +32,16 @@ this.price3=price3;
 
 public void displayRestaurantDetails(){
 
-System.out.println(" ");
-System.out.println(" ");
+
 System.out.println("RESTAURANT DETAILS:");
 System.out.println("Restaurant ID:"+ restId);
 System.out.println("Restaurant name:"+ name);
 System.out.println("Address:"+ address);
-System.out.println(" ");
-System.out.println(" ");
 System.out.println("FOOD MENU");
 System.out.println("1. "+ food1 + "-Rs." + price1 );
 System.out.println("2. "+ food2 + "-Rs." + price2 );
 System.out.println("3. "+ food3 + "-Rs." + price3 );
-System.out.println(" ");
-System.out.println(" ");
+
 
 }
 }
